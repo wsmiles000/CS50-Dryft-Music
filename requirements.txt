@@ -1,3 +1,4 @@
+python==2.7.10
 Flask==1.0.2
 Flask-Auth==0.85
 Flask-Login==0.4.1
