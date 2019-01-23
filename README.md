@@ -5,7 +5,7 @@ Web application that allows users to create a side-by-side streaming of Spotify 
 Our system runs on Python version 2.7*
 
 Ensure that you have the necessary dependencies installed by running
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 To run the application, run:
 `python2 main.py`
