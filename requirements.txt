@@ -1,0 +1,10 @@
+Flask==1.0.2
+Flask-Auth==0.85
+Flask-Login==0.4.1
+Flask-SQLAlchemy==2.3.2
+Jinja2==2.10
+passlib==1.7.1
+requests==2.20.1
+soundcloud==0.5.0
+SQLAlchemy==1.2.7
+
